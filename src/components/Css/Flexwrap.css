@@ -1,0 +1,20 @@
+.flex-wrap{
+    border: 1px solid black;
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    resize: horizontal;
+    overflow: auto;
+    width: 70%;
+    height: min-content;
+    min-width: 300px;
+}
+.flex-wrap .flex-item{
+    background: linear-gradient(45deg,red,blue);
+    padding: 50px;
+    margin: 10px;
+    height: min-content;
+}

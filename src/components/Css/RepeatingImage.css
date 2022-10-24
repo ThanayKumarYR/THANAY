@@ -1,0 +1,13 @@
+.RepeatingImage{
+    border: 1px solid rgb(0, 0, 0);
+    margin: 10px;
+    width: 1110px;
+    min-width: 200px;
+    min-height: 200px;
+    background: url('../../images/star.jpg');
+    background-repeat: space;
+    background-size: 200px;
+    resize: both;
+    overflow: auto;
+    height: 90vh;
+}
