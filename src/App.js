@@ -41,7 +41,7 @@ function App() {
       <Routes>
         <Route
           exact
-          path="/"
+          path="/THANAY"
           element={
             <>
               <header>
@@ -53,8 +53,8 @@ function App() {
             </>
           }
         >
-          <Route exact path="/" element={<Flexwrap />} />
-          <Route exact path="/RepeatingImage" element={<RepeatingImage />} />
+          <Route exact path="/THANAY" element={<Flexwrap />} />
+          <Route exact path="/THANAY/RepeatingImage" element={<RepeatingImage />} />
         </Route>
       </Routes>
     </div>
