@@ -37,7 +37,7 @@ aside .aside-div ul{
 aside .aside-div ul li{
     width: max-content;
     color: rgb(106, 106, 106);
-    margin: 21.3px 0px;
+    margin: 21.3px auto;
     padding: 2px 20px;
     text-decoration: none !important;
     background: linear-gradient(90deg,red,blue);
@@ -83,7 +83,6 @@ aside .aside-div ul li:where(:hover,:active,:focus){
     aside .aside-div ul li:where(:hover,:active){
         background: linear-gradient(-60deg,#ff9f9f 30%,#88f 80%);
         background-clip: text;
-        padding: 2px 1px 2px 39px;
     }
 }
 
