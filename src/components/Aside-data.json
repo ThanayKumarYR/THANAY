@@ -1,12 +1,12 @@
 [
     {
         "id":1,
-        "address":"/",
+        "address":"/THANAY",
         "content":"Flex-wrap"
     },
     {
         "id":2,
-        "address":"/RepeatingImage",
+        "address":"/THANAY/RepeatingImage",
         "content":"Repeating-Image"
     },
     {
