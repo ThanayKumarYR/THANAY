@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Aside from "./components/Aside";
 import Flexwrap from "./components/Flexwrap";
 import RepeatingImage from "./components/RepeatingImage";
+import Home from "./components/Home";
 function App() {
   let rotation = "0deg";
   let zIndex = -1;
@@ -53,12 +54,12 @@ function App() {
             </>
           }
         >
-          <Route exact path="/THANAY/" element={<Flexwrap />} />
+          <Route exact path="/THANAY/" element={<Home/>} />
+          <Route exact path="/THANAY/Flex/" element={<Flexwrap />} />
           <Route exact path="/THANAY/RepeatingImage/" element={<RepeatingImage />} />
         </Route>
       </Routes>
     </div>
   );
 }
-
 export default App;

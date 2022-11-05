@@ -1,13 +1,18 @@
 [
     {
+        "id":99,
+        "address":"/THANAY/",
+        "content":"Home"
+    },
+    {
         "id":1,
         "address":"https://thanaykumaryr.github.io/ymovies.github.io/",
-        "content":"Y-MOVIES"
+        "content":"Y-movies"
     },
     {
         "id":2,
         "address":"https://thanaykumaryr.github.io/Sanskruthi2k22/",
-        "content":"Sanskruthi-2"
+        "content":"Sanskruthi"
     },
     {
         "id":3,
@@ -60,7 +65,7 @@
     },
     {
         "id":12,
-        "address":"/THANAY",
+        "address":"/THANAY/Flex",
         "content":"Flex-wrap"
     },
     {
