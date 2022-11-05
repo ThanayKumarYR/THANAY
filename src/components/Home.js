@@ -26,7 +26,7 @@ const Home = () => {
           <a href="mailto:thanaykumaryr@gmail.com">thanaykumaryr@gmail.com</a>
         </h4>
         <h4>
-          <span>560100, Bangalore, India</span>
+          <span>560072, Bangalore, India</span>
         </h4>
       </div>
       <div className="about">
@@ -44,7 +44,7 @@ const Home = () => {
         <p>
           Please go through the links of my projects in the sidebar or by
           clicking the menu button above. You can also access the sites through
-          clicking thier title.
+          clicking their title.
         </p>
         <div className="ymovies">
           <h3>
@@ -53,34 +53,33 @@ const Home = () => {
             </a>
           </h3>
           <p>
-            It is a static, responsive website and repleca of F-MOVIES which is
-            top of free streaming website, where to watch movies online free
-            without registration required. I have used basic html and css with
-            vanila javascript to develop the website.I got a good hold on flex
+            It is a static, responsive website and replica of F-MOVIES which is
+            top of free streaming website, where we can watch movies online for free
+            without registration. I have used basic html and css with
+            vanila javascript to develop the website. I have got good hold on flex
             box property through this project.
           </p>
         </div>
         <div className="junkfood">
-          <h3>Junkfood Detecter</h3>
+          <h3><a href="https://thanay-kumar-yr.github.io/Junkfood_detector/">Junkfood Detecter</a></h3>
           <p>
-            It is web application used to deploy Machine Learnig model, Mobil
-            Net through tensorflowjs module. You can upload an image and predict
-            that image whether it is food or not. If it is food, then it will
+            It is a web application used to deploy Machine Learnig model (Mobile-Net) through tensorflowjs module. You can upload an image and predict whether
+            the image is food or not. If it is food, then it will
             tell which food it is. It takes some time to load the model
-            initially, so please be patient
+            initially, so please be patient.
           </p>
         </div>
         <div className="sanskruthi">
-          <h3>Sanskruthi</h3>
+          <h3><a href="https://thanaykumaryr.github.io/Sanskruthi2k22/">Sanskruthi</a></h3>
           <p>
             This responsive website was developed for the main fest "Sanskruthi"
             of Dr Ambedkar Institute of Technology. It tells about the events
-            and important date of the fest. It has various sections with
-            alternative designs patterns.
+            and important dates of the fest. It has various sections with
+            alternative design patterns.
           </p>
         </div>
         <div className="code-reader">
-          <h3>Code-Reader</h3>
+          <h3><a href="https://thanaykumaryr.github.io/Code_snippet/">Code-Reader</a></h3>
           <p>
             A ReactJS website to type code in differnt languages like C, C++,
             javascript, python etc. I have used monoco editor. By clicking
@@ -90,7 +89,7 @@ const Home = () => {
           </p>
         </div>
         <div className="agriverse">
-          <h3>Agriverse</h3>
+          <h3><a href="https://thanay-kumar-yr.github.io/text/">Agriverse</a></h3>
           <p>
             A ReactJS website for NFT'S. Plant to Earn. A Web 3.0 based
             decentralized Agriculture where you get real piece of
@@ -99,26 +98,26 @@ const Home = () => {
             assets/crops/NFTS and play to earn game which keeps entertaining and
             ensures continuous earning for you. The mode of play is a new
             concept in the world of gaming and one that gamers can leverage on
-            in order maximize profit.
+            in-order to maximize profit.
           </p>
         </div>
         <div className="dynamic-table">
-          <h3>Dynamic-table</h3>
+          <h3><a href="https://thanaykumaryr.github.io/table/">Dynamic-table</a></h3>
           <p>
             A ReactJS app where we can add details and are able to edit them if required. We can also delete them.
           </p>
         </div>
         <div className="rock-paper-scissors">
-          <h3>Rock-Paper-Scissors</h3>
+          <h3><a href="https://thanaykumaryr.github.io/Rock-Paper-Scissor.github.io/">Rock-Paper-Scissors</a></h3>
           <p>
-            A website to play Rock-Paper-Scissor with the computer. Press start and select Rock, Paper or Scissor
-            by clicking their image and finally click play and see the results. This website isn't responsive, hence play in laptop or destop.
+            A website to play Rock-Paper-Scissor in computer. Press start and select Rock, Paper or Scissor
+            by clicking their image and finally click play and see the results. This website isn't responsive on mobile, hence play in laptop or destop.
           </p>
         </div>
         <div className="random-numbers">
-          <h3>Random-Numbers</h3>
+          <h3><a href="https://thanaykumaryr.github.io/Random_numbers_generator.github.io/">Random-Numbers</a></h3>
           <p>
-            A responsive webapp to generate random numbers. First we have to enter the number to define the range and click start. By clicking the div in the center we can generate random numbers with in range infinitely. 
+            A responsive webapp to generate random numbers. First we have to enter the number to define the range and click start. By clicking the div in the center we can generate random numbers with-in given range infinite times. 
           </p>
         </div>
       </div>
@@ -135,6 +134,9 @@ const Home = () => {
         <a href="https://www.instagram.com/thanaykumaryr/">
           <AiFillInstagram />
         </a>
+      </div>
+      <div className="blank">
+
       </div>
     </div>
   );

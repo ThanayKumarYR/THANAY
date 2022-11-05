@@ -1,8 +1,11 @@
 .home{
     border: 1px solid yellowgreen;
     width: 80%;
+    height: 100%;
     overflow-y: auto;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
+    min-width: 310px;
+    background-color: #fff;
 }
 
 .home h2{
@@ -14,7 +17,6 @@
 
 .home h2 span{
     color: rgb(112, 112, 112);
-    font-weight: lighter;
 }
 
 
@@ -63,6 +65,37 @@
     text-align: justify;
 }
 
+.home .projects p{
+    text-align: center;
+}
+
+.home .projects div{
+    /* border: 1px solid yellow; */
+    margin: 15px 0;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.home .projects div h3{
+    margin: 0;
+    margin-left: 10px;
+}
+
+.home .projects div h3 a{
+    color: #000;
+    text-decoration: none;
+}
+
+.home .projects div h3 a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+.home .projects div p{
+    margin: 0;
+    text-align: justify;
+    padding: 10px;
+}
+
 
 .home .media-links{
     /* border: 1px solid rebeccapurple; */
@@ -83,34 +116,22 @@
     text-decoration: underline;
 }
 
-.home .projects p{
-    text-align: center;
+.home .blank{
+    height: 50px;
 }
 
-.home .projects div{
-    /* border: 1px solid yellow; */
-    margin: 15px 0;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-}
 
-.home .projects div h3{
-    margin: 0;
-    margin-left: 10px;
-}
-
-.home .projects div p{
-    margin: 0;
-    text-align: justify;
-    padding: 10px;
-}
 
 @media only screen and (max-width:820px){
     .home{
         width: 100%;
+        min-width: 310px;
     }
+    
   }
 @media only screen and (max-width:327px){
     .home .my-details h4{
         border: none;
     }
+    
   }
