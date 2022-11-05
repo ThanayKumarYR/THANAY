@@ -1,17 +1,12 @@
 aside {
     display: flex;
     background:#fff;
-    height: 100vh;
+    height: 101vh;
 }
 
 aside .aside-div{
-    height: 93vh;
     min-width: max-content;
     overflow-y: auto !important;
-    /* background: linear-gradient(180deg,red,blue);
-    background-size: 5px 100% ;
-    background-repeat: no-repeat;
-    background-position: top right; */
 }
 
 .aside-div::-webkit-scrollbar{
@@ -71,6 +66,7 @@ aside .aside-div ul li:where(:hover,:active,:focus){
        animation:none;
        padding: 55px 0px 0;
        height: 100%;
+       min-width: 310px;
     }
     aside .aside-div ul li{
         font-size: larger;

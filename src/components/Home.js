@@ -135,9 +135,6 @@ const Home = () => {
           <AiFillInstagram />
         </a>
       </div>
-      <div className="blank">
-
-      </div>
     </div>
   );
 };
