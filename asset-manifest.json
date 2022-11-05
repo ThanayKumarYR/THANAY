@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/THANAY/static/css/main.53eeea40.css",
-    "main.js": "/THANAY/static/js/main.4fdc5cc7.js",
+    "main.css": "/THANAY/static/css/main.d2bbabb9.css",
+    "main.js": "/THANAY/static/js/main.42833dec.js",
     "static/js/787.28cb0dcd.chunk.js": "/THANAY/static/js/787.28cb0dcd.chunk.js",
     "static/media/star.jpg": "/THANAY/static/media/star.0371d088956d6eeb242e.jpg",
     "index.html": "/THANAY/index.html",
-    "main.53eeea40.css.map": "/THANAY/static/css/main.53eeea40.css.map",
-    "main.4fdc5cc7.js.map": "/THANAY/static/js/main.4fdc5cc7.js.map",
+    "main.d2bbabb9.css.map": "/THANAY/static/css/main.d2bbabb9.css.map",
+    "main.42833dec.js.map": "/THANAY/static/js/main.42833dec.js.map",
     "787.28cb0dcd.chunk.js.map": "/THANAY/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53eeea40.css",
-    "static/js/main.4fdc5cc7.js"
+    "static/css/main.d2bbabb9.css",
+    "static/js/main.42833dec.js"
   ]
 }
