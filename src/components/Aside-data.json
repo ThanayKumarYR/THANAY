@@ -5,6 +5,11 @@
         "content":"Home"
     },
     {
+        "id":98,
+        "address":"https://thanaykumaryr.github.io/calculator/",
+        "content":"Calculator"
+    },
+    {
         "id":1,
         "address":"https://thanaykumaryr.github.io/ymovies.github.io/",
         "content":"Y-movies"
