@@ -48,7 +48,7 @@ const Home = () => {
         </p>
         <div className="ymovies">
           <h3>
-            <a href="https://thanaykumaryr.github.io/ymovies.github.io/">
+            <a href="https://thanaykumaryr.github.io/ymovies.github.io/" target="_blank" rel="noreferrer">
               Y-movies
             </a>
           </h3>
@@ -61,7 +61,7 @@ const Home = () => {
           </p>
         </div>
         <div className="junkfood">
-          <h3><a href="https://thanay-kumar-yr.github.io/Junkfood_detector/">Junkfood Detecter</a></h3>
+          <h3><a href="https://thanay-kumar-yr.github.io/Junkfood_detector/" target="_blank" rel="noreferrer">Junkfood Detecter</a></h3>
           <p>
             It is a web application used to deploy Machine Learnig model (Mobile-Net) through tensorflowjs module. You can upload an image and predict whether
             the image is food or not. If it is food, then it will
@@ -70,7 +70,7 @@ const Home = () => {
           </p>
         </div>
         <div className="sanskruthi">
-          <h3><a href="https://thanaykumaryr.github.io/Sanskruthi2k22/">Sanskruthi</a></h3>
+          <h3><a href="https://thanaykumaryr.github.io/Sanskruthi2k22/" target="_blank" rel="noreferrer">Sanskruthi</a></h3>
           <p>
             This responsive website was developed for the main fest "Sanskruthi"
             of Dr Ambedkar Institute of Technology. It tells about the events
@@ -79,7 +79,7 @@ const Home = () => {
           </p>
         </div>
         <div className="code-reader">
-          <h3><a href="https://thanaykumaryr.github.io/Code_snippet/">Code-Reader</a></h3>
+          <h3><a href="https://thanaykumaryr.github.io/Code_snippet/" target="_blank" rel="noreferrer">Code-Reader</a></h3>
           <p>
             A ReactJS website to type code in differnt languages like C, C++,
             javascript, python etc. I have used monoco editor. By clicking
@@ -89,7 +89,7 @@ const Home = () => {
           </p>
         </div>
         <div className="agriverse">
-          <h3><a href="https://thanay-kumar-yr.github.io/text/">Agriverse</a></h3>
+          <h3><a href="https://thanay-kumar-yr.github.io/text/" target="_blank" rel="noreferrer">Agriverse</a></h3>
           <p>
             A ReactJS website for NFT'S. Plant to Earn. A Web 3.0 based
             decentralized Agriculture where you get real piece of
@@ -102,7 +102,7 @@ const Home = () => {
           </p>
         </div>
         <div className="dynamic-table">
-          <h3><a href="https://thanaykumaryr.github.io/table/">Dynamic-table</a></h3>
+          <h3><a href="https://thanaykumaryr.github.io/table/" target="_blank" rel="noreferrer">Dynamic-table</a></h3>
           <p>
             A ReactJS app where we can add details and are able to edit them if required. We can also delete them.
           </p>
@@ -115,23 +115,23 @@ const Home = () => {
           </p>
         </div>
         <div className="random-numbers">
-          <h3><a href="https://thanaykumaryr.github.io/Random_numbers_generator.github.io/">Random-Numbers</a></h3>
+          <h3><a href="https://thanaykumaryr.github.io/Random_numbers_generator.github.io/" target="_blank" rel="noreferrer">Random-Numbers</a></h3>
           <p>
             A responsive webapp to generate random numbers. First we have to enter the number to define the range and click start. By clicking the div in the center we can generate random numbers with-in given range infinite times. 
           </p>
         </div>
       </div>
       <div className="media-links">
-        <a href="https://github.com/ThanayKumarYR">
+        <a href="https://github.com/ThanayKumarYR" target="_blank" rel="noreferrer">
           <AiFillGithub />
         </a>
-        <a href="https://www.linkedin.com/in/thanay-kumar-y-r-94a16a224/">
+        <a href="https://www.linkedin.com/in/thanay-kumar-y-r-94a16a224/" target="_blank" rel="noreferrer">
           <AiFillLinkedin />
         </a>
-        <a href="mailto:thanaykumaryr@gmail.com">
+        <a href="mailto:thanaykumaryr@gmail.com" target="_blank" rel="noreferrer">
           <IoIosMail />
         </a>
-        <a href="https://www.instagram.com/thanaykumaryr/">
+        <a href="https://www.instagram.com/thanaykumaryr/" target="_blank" rel="noreferrer">
           <AiFillInstagram />
         </a>
       </div>
