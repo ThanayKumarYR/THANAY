@@ -34,9 +34,9 @@ const Home = () => {
         <p>
           Hello, I am Thanay Kumar Y R, currently pursuing B.E in Computer
           Science at Dr Ambedkar Institute of Technology. My expertise lies in
-          frontend especially in React JS. I'm strong in Javacript, C, and basic
-          python, currently learning Nodejs and MongoDb, hoping to become a
-          Fullstack devoloper. Thank you !
+          frontend especially in React JS. I'm strong in JavaScript, C, and basic
+          python, currently learning Nodejs and MongoDB, hoping to become a
+          Full stack devoloper. Thank you !
         </p>
       </div>
       <div className="projects">
