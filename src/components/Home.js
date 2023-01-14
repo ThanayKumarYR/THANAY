@@ -1,6 +1,6 @@
 import React from "react";
 import "./Css/Home.css";
-import thanay from "../images/Thanay.jpg";
+import thanay from "../images/Thanay1.jpg";
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
 import { IoIosMail } from "react-icons/io";
 const Home = () => {

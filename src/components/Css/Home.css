@@ -25,8 +25,9 @@
 
 .home .my-image img{
     display: block;
-    margin: auto;
+    margin: 0 auto;
     border-radius: 14px;
+    width: 250px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
