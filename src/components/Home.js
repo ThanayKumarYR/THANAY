@@ -46,6 +46,17 @@ const Home = () => {
           clicking the menu button above. You can also access the sites through
           clicking their title.
         </p>
+        <div className="election">
+          <h3>
+            <a href="https://thanaykumaryr-election.onrender.com/" target="_blank" rel="noreferrer">
+              Election Management System
+            </a>
+          </h3>
+          <p>
+            It is Full Stack Website built on Nodejs with database as MongoDB. Here we can conduct elections
+            on small scale. The votes being cast for the Canditates by the voters is fully secure and confidential. Try it out.
+          </p>
+        </div>
         <div className="ymovies">
           <h3>
             <a href="https://thanaykumaryr.github.io/ymovies.github.io/" target="_blank" rel="noreferrer">
