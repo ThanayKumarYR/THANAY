@@ -46,6 +46,21 @@ const Home = () => {
           clicking the menu button above. You can also access the sites through
           clicking their title.
         </p>
+        <div className="customization">
+          <h3>
+            <a href="https://thanaykumaryr.github.io/Fashion-Customization/" target="_blank" rel="noreferrer">
+              Fashion Customization
+            </a>
+          </h3>
+          <p>
+            users have the ability to craft their unique shirt designs 
+            by simply providing a text prompt describing the desired design
+            or logo, all made possible through the incorporation of stabilityai technology. What 
+            sets this platform apart is its real-time visualization 
+            feature, allowing users to instantly view and customize 
+            their creations.
+          </p>
+        </div>
         <div className="election">
           <h3>
             <a href="https://thanaykumaryr-election.onrender.com/" target="_blank" rel="noreferrer">
