@@ -53,7 +53,7 @@ const Home = () => {
             </a>
           </h3>
           <p>
-            users have the ability to craft their unique shirt designs 
+            Users have the ability to craft their unique shirt designs 
             by simply providing a text prompt describing the desired design
             or logo, all made possible through the incorporation of stabilityai technology. What 
             sets this platform apart is its real-time visualization 
